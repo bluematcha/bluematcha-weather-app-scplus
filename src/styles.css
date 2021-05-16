@@ -1,0 +1,15 @@
+body {
+  margin-top: 100px;
+}
+.border {
+  margin: 55px;
+  padding: 55px;
+}
+.mainsection {
+  padding: 100px 0;
+}
+
+.weather-icon {
+  font-size: 40px;
+  text-align: center;
+}
